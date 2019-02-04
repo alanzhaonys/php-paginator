@@ -1,8 +1,8 @@
 <?php
 
-namespace JasonGrimes\Tests;
+namespace AlanZhao\Tests;
 
-use JasonGrimes\Paginator;
+use AlanZhao\Paginator;
 
 class PaginatorTest extends \PHPUnit_Framework_TestCase
 {
